@@ -1,0 +1,73 @@
+body{font-family: "Montserrat-light", sans-serif ;}
+.h3{font-weight: 400;}
+h2{font-family: "Montserrat", sans-serif; font-weight: 700;}
+.top-image{background-color: #ff4c68;}
+
+.heading{font-family: "Montserrat", sans-serif ; font-size: 3.5rem; line-height: 1.5;
+    font-weight: 900; text-align: left;
+
+}
+.container-fluid{padding: 2% 13%;}
+.navbar-brand{ font-family: ubuntu; font-size: 2.5rem;padding-right: 3.125rem; font-weight: bold;}
+.navbar{ padding-bottom: 3.125rem;}
+.nav-item{padding:  0px 18px;}
+.nav-link{font-size: 1.2rem; font-family: "Montserrat", sans-serif ; }
+.nav-link:hover{color: white;}
+.botton{padding-top: 20px;}
+
+.iphone{width: 20%; transform: rotate(25deg); padding-top: 1.5rem; position: absolute;right: 20%;}
+.first{color: #8f8f8f;}
+.second{color: #8f8f8f;}
+.third{color: #8f8f8f;}
+.bold{font-family: "Montserrat", sans-serif ; font-weight: 800; font-size: 1.5rem;}
+.align{text-align: center; padding: 5%;}
+.row{text-align: center; padding: 7% 5%; }
+.icon{padding-bottom: 10px;color: #ff5148;}
+.icon:hover{color: #ff4c68;}
+.feature-space{background-color: white; position: relative; z-index: 1;}
+.testimonial{ text-align: center; background-color: #ff5148; color: white;}
+
+.dog{width: 10%; border-radius: 50%; margin: 20px;}
+.bolow-testimonial{background-color: #ff5148; text-align: center; padding-bottom: 3%;}
+.testimonial-logo{width: 13%; padding: 20px;}
+.kayode{ border-radius: 100%;height: 100px;  width: 100px; margin: 20px;}
+.carousel-item{padding: 7% 15%;}
+.price-font{font-weight: 700; font-family: "Montserrat", sans-serif;}
+.price-para{ font-size: medium;}
+.card{height: 350px;}
+
+.price-row{padding-top: 3%;}
+#pricing{padding: 100px;}
+.price-title{padding-left: 50px; text-align: center;}
+#cta{background-color: #ff4c68; text-align: center; padding: 150px;}
+.foot{ font-size: 3.5rem; font-family:  "Montserrat", sans-serif; color: white; line-height: 1.5;}
+.foot-botton{margin: 10px;}
+#contact{font-size: 1.2rem; text-align: center; padding: 20px;}
+.social-icon{padding: 10px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:1028px) {
+    .iphone{position: static; transform: rotate(0deg); width: 60%;}
+    .top-image{text-align: center;}
+    
+    
+}
+
+
+
+
+
+
+
+
